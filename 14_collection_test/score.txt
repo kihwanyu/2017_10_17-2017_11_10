@@ -1,0 +1,7 @@
+#comment
+#Mon Nov 20 15:13:40 KST 2017
+4=5, WANGGUN, 70, 90, 100, 0, 0
+3=4, KimYuSin, 40, 70, 20, 0, 0
+2=3, HangJinLee, 100, 40, 50, 0, 0
+1=2, LeeSunSin, 100, 50, 90, 0, 0
+0=1, HongGilDong, 60, 70, 80, 0, 0

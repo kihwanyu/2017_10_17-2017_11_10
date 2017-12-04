@@ -1,0 +1,5 @@
+#jdbc driver
+#Thu Nov 16 17:50:07 KST 2017
+password=student
+url=jdbc.oracle.thin\:@127.0.0.1\:1521\:xe
+driver=orale.jdbc.driver.OracleDriver
